@@ -1,0 +1,103 @@
+﻿body
+{
+    background-position: #FFFFFF;
+    padding: 0px;
+    margin: 0px;
+    background: #0073AA;
+    font-family: Tahoma;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #000000;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+span
+{
+    font-family: tahoma;
+    font-size: 12px;
+}
+
+
+input
+{
+    padding: 0px;
+    margin: 0px;
+    font-family: tahoma;
+    font-size: 12px;
+    border: 1px solid #666666;
+    background-color: #E0E0E0;
+
+}
+
+
+input[type=text]
+{
+    font-family: tahoma;
+    font-size: 12px;
+    border: 1px solid #666666;
+    background-color: #C5C8D1;
+}
+select
+{
+    font-family: tahoma;
+    font-size: 12px;
+    border: 1px solid #666666;
+    background-color: #C4D2FF;
+    color: #000000;
+}
+
+
+
+span
+{
+    font-family: tahoma;
+    font-size: 12px;
+}
+a
+{
+    font-family: tahoma;
+    font-size: 11px;
+    text-decoration: underline;
+    color: #000000;
+}
+a:hover
+{
+    color: #800000;
+}
+
+
+
+
+
+
+td
+{
+    vertical-align: top;
+    margin-right: 200px;
+    text-align: right;
+}
+
+
+.main_table
+{
+    padding: 0px 06px 0px 6px;
+    border-width: 1px;
+    border-color: #003366;
+    margin: 0px auto;
+    border-right-style: solid;
+    border-left-style: solid;
+    background-color: #FFFFFF;
+}
+
+.td_devider
+{
+    text-align: center;
+}
